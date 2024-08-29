@@ -30,6 +30,7 @@ body {
 }
 .titulo__principal{
     text-align: center;
+    background-color: aqua;
 }
 .imagem{
     border:solid 5px white;
