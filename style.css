@@ -16,7 +16,8 @@ body {
     border: solid 10px;
     background-color: brown;
     margin: 20px;
-    padding: 10px;border-style: groove;
+    padding: 10px;
+    border-style: dotted;
 }
 :root {
     mrg: margin-right:50%;
