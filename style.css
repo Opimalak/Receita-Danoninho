@@ -26,9 +26,7 @@ body {
 
 }
 .lista{
-    list-style: none;
     list-style-type: none;
-    text-decoration: none;
 }
 .titulo__principal{
     text-align: center;
@@ -39,6 +37,7 @@ body {
     width: 300px;
     height: auto;
     background-color: blueviolet;
+    align-content: end;
 }
 .texto{
     margin-right:50%;
