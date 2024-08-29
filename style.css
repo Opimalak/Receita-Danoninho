@@ -22,7 +22,7 @@ body {
     flex-wrap: wrap;
 }
 :root {
-    --mrg: margin-right:50%;
+
 }
 .lista{
     list-style: none;
@@ -39,5 +39,5 @@ body {
     height: auto;
 }
 .texto{
-    margin: var(--mrg);
+    margin-right:50%;
 }
