@@ -19,7 +19,7 @@ body {
     padding: 10px;
     border-radius: 20px;
     display: flex;
-    flex-flow:row wrap;
+    flex-flow:row;
 }
 :root {
 
@@ -38,7 +38,6 @@ body {
     width: 300px;
     height: auto;
     background-color: blueviolet;
-    align-content: end;
 }
 .texto{
     margin-right:50%;
