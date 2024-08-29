@@ -15,7 +15,8 @@ body {
 .all{
     border: solid 10px;
     background-color: brown;
-    margin: 10px;
+    margin: 20px;
+    padding: 10px;
 }
 :root {
     mrg: margin-right:50%;
