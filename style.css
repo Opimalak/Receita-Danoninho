@@ -37,6 +37,7 @@ body {
     align-items: end;
     width: 300px;
     height: auto;
+    background-color: blueviolet;
 }
 .texto{
     margin-right:50%;
