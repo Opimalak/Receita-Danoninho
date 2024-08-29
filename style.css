@@ -18,6 +18,7 @@ body {
     margin: 20px;
     padding: 10px;
     border-radius: 20px;
+    display: flex;
 }
 :root {
     mrg: margin-right:50%;
@@ -28,6 +29,7 @@ body {
 }
 .imagem{
     border:solid 5px white;
+    align-items: end;
 }
 .lista {
     margin: var(mrg);
