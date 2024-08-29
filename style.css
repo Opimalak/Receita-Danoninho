@@ -11,7 +11,7 @@ body {
     font-optical-sizing: auto;
     color: white;
     font-size: 30px;
-    margin: left 10px; ;
+    border: solid 10px;
 }
 
 :root {
