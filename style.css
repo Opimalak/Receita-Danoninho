@@ -22,7 +22,7 @@ body {
     flex-wrap: wrap;
 }
 :root {
-    mrg: margin-right:50%;
+    --mrg: margin-right:50%;
 }
 .lista{
     list-style: none;
@@ -30,7 +30,7 @@ body {
     text-decoration: none;
 }
 .titulo__principal {
-    margin: var(mrg);
+    margin: var(--mrg);
     text-align: center;
 }
 .imagem{
@@ -40,5 +40,5 @@ body {
     height: auto;
 }
 .texto{
-    margin: var(mrg);
+    margin: var(--mrg);
 }
