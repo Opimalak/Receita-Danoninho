@@ -6,13 +6,14 @@
 }
 
 body {
-    background-color: rgb(248, 160, 211);
+    background-color: rgb(197, 118, 164);
     font-family: "Caveat", cursive;
     font-optical-sizing: auto;
     color: white;
     font-size: 30px;
 }
 .all{
+    background-color: rgb(248, 160, 211);
     border: dotted 6px;
     margin: 20px;
     padding: 10px;
