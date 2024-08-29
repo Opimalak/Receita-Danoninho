@@ -22,7 +22,7 @@ background-color: rgb(248, 160, 211);
 .flex{
     
     display: flex;
-    flex-flow:row;
+    flex-flow:row wrap;
 }
 :root {
 
