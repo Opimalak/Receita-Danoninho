@@ -24,7 +24,9 @@ body {
 :root {
     mrg: margin-right:50%;
 }
-
+.lista{
+    list-style: none;
+}
 .titulo__principal {
     margin: var(mrg);
 }
