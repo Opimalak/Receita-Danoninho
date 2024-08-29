@@ -12,8 +12,13 @@ body {
     color: white;
     font-size: 30px;
 }
+.titulo__principal{
+    text-align: center;
+    background-color: aqua;
+    text-size-adjust: 100px;
+}
 .borda{
-background-color: rgb(248, 160, 211);
+    background-color: rgb(248, 160, 211);
     border: dotted 6px;
     margin: 20px;
     padding: 10px;
@@ -27,11 +32,7 @@ background-color: rgb(248, 160, 211);
 .lista{
     list-style-type: none;
 }
-.titulo__principal{
-    text-align: center;
-    background-color: aqua;
-    text-size-adjust: 100px;
-}
+
 .imagem{
     border:solid 5px white;
     align-items: end;
