@@ -18,6 +18,7 @@ body {
     margin: 20px;
     padding: 10px;
     border-style: dotted;
+    border-radius: 20px;
 }
 :root {
     mrg: margin-right:50%;
