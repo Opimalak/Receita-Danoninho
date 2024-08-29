@@ -12,12 +12,15 @@ body {
     color: white;
     font-size: 30px;
 }
-.all{
-    background-color: rgb(248, 160, 211);
+.borda{
+background-color: rgb(248, 160, 211);
     border: dotted 6px;
     margin: 20px;
     padding: 10px;
-    border-radius: 20px;
+    border-radius: 20px;    
+}
+.flex{
+    
     display: flex;
     flex-flow:row;
 }
