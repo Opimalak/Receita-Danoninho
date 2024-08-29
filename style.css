@@ -27,7 +27,9 @@ body {
 .titulo__principal {
     margin: var(mrg);
 }
-
+.imagem{
+    border:solid 5px white;
+}
 .lista {
     margin: var(mrg);
 }
