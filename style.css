@@ -11,9 +11,11 @@ body {
     font-optical-sizing: auto;
     color: white;
     font-size: 30px;
-    border: solid 10px;
 }
-
+.all{
+    border: solid 10px;
+    background-color: brown;
+}
 :root {
     mrg: margin-right:50%;
 }
