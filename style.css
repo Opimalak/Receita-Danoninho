@@ -30,7 +30,6 @@ body {
     text-decoration: none;
 }
 .titulo__principal {
-    margin: var(--mrg);
     text-align: center;
 }
 .imagem{
