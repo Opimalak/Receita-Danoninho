@@ -34,14 +34,6 @@ body {
     width: 300px;
     height: auto;
 }
-.lista {
-    margin: var(mrg);
-}
-
-.preparo {
-    margin: var(mrg);
-}
-
-.add {
+.texto{
     margin: var(mrg);
 }
