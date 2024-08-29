@@ -13,11 +13,10 @@ body {
     font-size: 30px;
 }
 .all{
-    border: 3px;
+    border: dotted 3px;
     background-color: brown;
     margin: 20px;
     padding: 10px;
-    border-style: dotted;
     border-radius: 20px;
 }
 :root {
