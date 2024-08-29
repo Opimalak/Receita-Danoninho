@@ -19,6 +19,7 @@ body {
     padding: 10px;
     border-radius: 20px;
     display: flex;
+    flex-wrap: wrap;
 }
 :root {
     mrg: margin-right:50%;
