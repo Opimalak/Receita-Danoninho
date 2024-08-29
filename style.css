@@ -12,15 +12,23 @@ body {
     color: white;
     font-size: 30px;
 }
-.titulo__principal{
-    text-align: center;
+
+:root {
+    mrg: margin-right:50%;
 }
-.lista{
-    margin-right: 50%; 
+
+.titulo__principal {
+    margin: var(mrg);
 }
-.preparo{
-   margin-right: 50%; 
+
+.lista {
+    margin: var(mrg);
 }
-.add{
-    margin-right: 50%; 
+
+.preparo {
+    margin: var(mrg);
+}
+
+.add {
+    margin: var(mrg);
 }
