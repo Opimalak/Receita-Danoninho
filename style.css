@@ -20,13 +20,10 @@ background-color: rgb(248, 160, 211);
     border-radius: 20px;    
 }
 .flex{
-    
     display: flex;
-    flex-flow:wrap;
+    flex-flow: column wrap;
 }
-:root {
 
-}
 .lista{
     list-style-type: none;
 }
