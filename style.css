@@ -45,4 +45,5 @@ background-color: rgb(248, 160, 211);
 .texto{
     margin-right:50%;
     background-color: chocolate;
+    flex-direction: column;
 }
