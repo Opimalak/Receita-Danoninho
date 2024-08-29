@@ -26,6 +26,7 @@ body {
 }
 .lista{
     list-style: none;
+    list-style-type: none;
 }
 .titulo__principal {
     margin: var(mrg);
