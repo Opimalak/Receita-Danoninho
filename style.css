@@ -31,8 +31,8 @@ body {
 .imagem{
     border:solid 5px white;
     align-items: end;
-    width: 50%;
-    height: 50%;
+    width: 300px;
+    height: auto;
 }
 .lista {
     margin: var(mrg);
