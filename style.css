@@ -26,7 +26,7 @@ body {
 }
 .flex{
     display: flex;
-    flex-flow: column wrap;
+    flex-flow:wrap;
 }
 
 .lista{
@@ -43,4 +43,5 @@ body {
 .texto{
     margin-right:50%;
     background-color: chocolate;
+    flex-direction: column;
 }
